@@ -1,2 +1,2 @@
 # go-demo
-cici for tekton
+cicd for tekton
